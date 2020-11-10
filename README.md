@@ -11,7 +11,7 @@ Image segmentation using contour detection
 * Input image
 > ![input image](/images/dhoni_virat.jpg)
 
-* contour tracing thresholding image(threshold value-115)
+* contour tracing after thresholding the image(threshold value-115)
 ![threshold](/images/Threshold.PNG)
 
 * contour tracing after edge detection (threshold1 value-115 ,threshol2 40)
